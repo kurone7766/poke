@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c75a037793755dc4d9f6e0f710cb61c8, type: 3}
+  m_Name: Blue
+  m_EditorClassIdentifier: 
+  name: "\u30D6\u30EB\u30FC"
+  hudname: BLUE
+  description: 
+  leftSprite: {fileID: 21300000, guid: ad291532ea4c2a943ae163ad0e92c1b2, type: 3}
+  rightSprite: {fileID: 21300000, guid: 58058b5438dceb34bb0a4a07bd79eac9, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 110
+  attack: 40
+  defense: 75
+  speed: 40
+  learnableMoves:
+  - _base: {fileID: 11400000, guid: 2b8982682ef13804b9e9482d34d5e622, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: 03be59bff5bf7404b8594580b7d9b138, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: ace38a34de4e8ba49bb98c1d48435f48, type: 2}
+    level: 1
+  - _base: {fileID: 11400000, guid: aa19bcffa39134b44bdc8856536c57f2, type: 2}
+    level: 1

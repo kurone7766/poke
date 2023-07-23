@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa2c16e3cf5812845a86d2d99c13e45a, type: 3}
+  m_Name: Move04
+  m_EditorClassIdentifier: 
+  name: "\u30B9\u30D4\u304E\u308A"
+  description: "\u9EC4\u5C5E\u6027\uFF08\u56FA\u6709\u6280\uFF09"
+  type: 5
+  power: 95
+  accuracy: 100
+  pp: 10
